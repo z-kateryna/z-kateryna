@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Kat, UX/UI Designer and Web Developer
+
+Currently working on the another version of my portfolio, in the meantime check out what I currently have [here](https://www.katzabrodska.com)
+
+
 
 <!--
 **z-kateryna/z-kateryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
