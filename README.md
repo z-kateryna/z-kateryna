@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kat, UX/UI Designer and Web Developer  
 
-Currently busy working on another version of my portfolio,  
+Currently busy coding yet another version of my portfolio,  
 
 ![My GIF](https://raw.githubusercontent.com/z-kateryna/z-kateryna/main/Cat.gif)  
 
