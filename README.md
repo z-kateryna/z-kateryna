@@ -1,10 +1,8 @@
 ## Hi there 👋 I'm Kat, UX/UI Designer and Web Developer  
 
-Currently busy coding yet another version of my portfolio,  
+Passionate about bringing ideas and my designs to life, check out my work here: https://kzabrodska.codes
 
 ![My GIF](https://raw.githubusercontent.com/z-kateryna/z-kateryna/main/Cat.gif)  
-
-In the meantime, check out what I currently have [here](https://www.katzabrodska.com)  
 
 ---
 
