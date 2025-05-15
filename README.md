@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kat, UX/UI Designer and Web Developer  
 
-Passionate about bringing ideas and my designs to life, check out my work here: https://kzabrodska.codes
+Passionate about bringing ideas and flaweless designs to life, check out my work here: https://kzabrodska.codes
 
 ![My GIF](https://raw.githubusercontent.com/z-kateryna/z-kateryna/main/Cat.gif)  
 
